@@ -1,0 +1,6 @@
+# Abaikan ini saat melakukan 'git push'
+.vs/
+bin/
+obj/
+tpmodul5_103022300082.csproj
+tpmodul5_103022300082.sln
